@@ -1,0 +1,1 @@
+from junit import JUnitShellCommand
